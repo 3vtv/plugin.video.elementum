@@ -12,7 +12,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 # Settings
 msgctxt "#30000"
@@ -85,11 +85,11 @@ msgstr "Konserwacja"
 
 msgctxt "#30021"
 msgid "Elements per page"
-msgstr "Elementy na stronę"
+msgstr "Pozycji na stronę"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
-msgstr "Włącz status nakładki"
+msgstr "Włącz nakładkę statusu"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
@@ -97,7 +97,7 @@ msgstr "Wybierz strumień automatycznie"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr "Ogranicz prędkości tylko po początkowym buforowaniu"
+msgstr "Ogranicz prędkości dopiero po początkowym buforowaniu"
 
 msgctxt "#30026"
 msgid "Library path"
@@ -117,7 +117,7 @@ msgstr "Częstotliwość zapisu sesji, sekundy"
 
 msgctxt "#30030"
 msgid "Overlay status vertical offset"
-msgstr "Pionowe przesunięcie statusu nakładki"
+msgstr "Pionowe przesunięcie nakładki statusu"
 
 msgctxt "#30031"
 msgid "Disable providers that failed health check"
@@ -169,11 +169,11 @@ msgstr "Tryb sortowania dla Seriali"
 
 msgctxt "#30044"
 msgid "By seeders"
-msgstr "Według seedów"
+msgstr "Wg seedów"
 
 msgctxt "#30045"
 msgid "By resolution"
-msgstr "Według rozdzielczości"
+msgstr "Wg rozdzielczości"
 
 msgctxt "#30046"
 msgid "Balanced"
@@ -269,7 +269,7 @@ msgstr "i2p"
 
 msgctxt "#30074"
 msgid "Spoof user agent (highly inadvisable)"
-msgstr "Podszyj się pod user agent (zdecydowanie niezalecane)"
+msgstr "Podszyj się pod user agenta (zdecydowanie niezalecane)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
@@ -639,15 +639,15 @@ msgstr "Usuń z biblioteki"
 
 msgctxt "#30254"
 msgid "My Watchlist"
-msgstr "Moja lista do obejrzenia"
+msgstr "Moja lista obserwowanych"
 
 msgctxt "#30255"
 msgid "Add to watchlist"
-msgstr "Dodaj do listy do obejrzenia"
+msgstr "Dodaj do obserwowanych"
 
 msgctxt "#30256"
 msgid "Remove from watchlist"
-msgstr "Usuń z listy do obejrzenia"
+msgstr "Usuń z obserwowanych"
 
 msgctxt "#30257"
 msgid "My Collection"
@@ -2520,7 +2520,7 @@ msgstr "Tytuł"
 
 msgctxt "#30774"
 msgid "Sort by"
-msgstr "Sortuj według"
+msgstr "Sortuj wg"
 
 msgctxt "#30775"
 msgid "Oldest first"
