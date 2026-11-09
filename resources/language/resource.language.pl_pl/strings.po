@@ -967,23 +967,23 @@ msgstr "Synchronizacja"
 
 msgctxt "#30363"
 msgid "Sync items from collections into Kodi library"
-msgstr "Synchronizuj elementy z kolekcji do biblioteki Kodi"
+msgstr "Synchronizuj pozycje z kolekcji do biblioteki Kodi"
 
 msgctxt "#30364"
 msgid "Sync items from watchlist into Kodi library"
-msgstr "Synchronizuj elementy z listy do obejrzenia do biblioteki Kodi"
+msgstr "Synchronizuj pozycje z listy obserwowanych do biblioteki Kodi"
 
 msgctxt "#30365"
 msgid "Sync items from user lists into Kodi library"
-msgstr "Synchronizuj elementy z list użytkownika do biblioteki Kodi"
+msgstr "Synchronizuj pozycje z list użytkownika do biblioteki Kodi"
 
 msgctxt "#30366"
 msgid "Sync watched states from tracking service into Kodi library"
-msgstr "Synchronizuj status obejrzenia z usługi śledzenia do biblioteki Kodi"
+msgstr "Synchronizuj stan obejrzenia z usługi śledzenia do biblioteki Kodi"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into tracking service"
-msgstr "Synchronizuj status obejrzenia z Kodi do usługi śledzenia"
+msgstr "Synchronizuj stan obejrzenia z Kodi do usługi śledzenia"
 
 msgctxt "#30369"
 msgid "Disable Upload"
@@ -1007,7 +1007,7 @@ msgstr "Kraje"
 
 msgctxt "#30375"
 msgid "By size"
-msgstr "Według rozmiaru"
+msgstr "Wg rozmiaru"
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
@@ -1779,7 +1779,7 @@ msgstr "Włącz integrację biblioteki z Kodi"
 
 msgctxt "#30586"
 msgid "If disabled - Elementum will not get/insert items to Kodi library [CR]and skip watched management with Kodi."
-msgstr "Jeśli wyłączone — Elementum nie będzie pobierać/dodawać elementów do biblioteki Kodi[CR]i pominie zarządzanie statusem obejrzenia w Kodi."
+msgstr "Jeśli wyłączone — Elementum nie będzie pobierać/dodawać pozycji do biblioteki Kodi[CR]i pominie zarządzanie statusem obejrzenia w Kodi."
 
 msgctxt "#30587"
 msgid "Show welcome message on start"
