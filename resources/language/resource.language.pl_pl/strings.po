@@ -1203,19 +1203,19 @@ msgstr "Sortuj seriale na liście"
 
 msgctxt "#30430"
 msgid "By latest watched"
-msgstr "Według ostatnio oglądanych"
+msgstr "Wg ostatnio oglądanych"
 
 msgctxt "#30431"
 msgid "By show name"
-msgstr "Według nazwy serialu"
+msgstr "Wg nazwy serialu"
 
 msgctxt "#30432"
 msgid "By air date (newer)"
-msgstr "Według daty emisji (nowsze)"
+msgstr "Wg daty emisji (nowsze)"
 
 msgctxt "#30433"
 msgid "By air date (older)"
-msgstr "Według daty emisji (starsze)"
+msgstr "Wg daty emisji (starsze)"
 
 msgctxt "#30434"
 msgid "Date format"
@@ -2692,7 +2692,7 @@ msgstr "Klucz API Scrob (opcjonalny, zamiast autoryzacji)"
 
 msgctxt "#30818"
 msgid "Scrob has no watchlist: a list named Watchlist is used. Its collection is read-only, library additions go to that list or a chosen one."
-msgstr "Scrob nie ma listy do obejrzenia: używana jest lista o nazwie Watchlist. Jego kolekcja jest tylko do odczytu, pozycje dodane do biblioteki trafiają na tę listę lub na wybraną."
+msgstr "Scrob nie ma listy obserwowanych: używana jest lista o nazwie Watchlist. Jego kolekcja jest tylko do odczytu, pozycje dodane do biblioteki trafiają na tę listę lub na wybraną."
 
 msgctxt "#30819"
 msgid "Watching"
