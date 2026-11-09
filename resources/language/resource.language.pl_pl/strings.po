@@ -1931,7 +1931,7 @@ msgstr "Pobieranie"
 
 msgctxt "#30625"
 msgid "Finished"
-msgstr "Zakończono"
+msgstr "Ukończono"
 
 msgctxt "#30626"
 msgid "Seeding"
